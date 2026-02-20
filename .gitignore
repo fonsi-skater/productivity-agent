@@ -1,0 +1,10 @@
+# Ignore everything by default; only keep the project folder.
+*
+!.gitignore
+!README.md
+!weather app/
+!weather app/**
+weather app/.vscode/
+weather app/weather.css
+weather app/weather.html
+weather app/weather.js
