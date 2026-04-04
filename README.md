@@ -16,3 +16,4 @@ Open `weather app/index.html` in your browser.
 - `weather app/index.html` - layout and UI
 - `weather app/styles.css` - styling and animations
 - `weather app/app.js` - data logic and rendering
+"# ShopFonsi" 
