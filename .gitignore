@@ -1,0 +1,28 @@
+﻿.env
+.env.*
+!.env.example
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+.streamlit/secrets.toml
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+client_secret*.json
+calendar_token.json
+# Local reports, logs, and backup copies
+reports/
+*.log
+*.bak
+
